@@ -1,4 +1,4 @@
-# test-app
+# nuxt-app
 
 ## Build Setup
 
@@ -18,6 +18,9 @@ $ npm run generate
 ```
 
 ## Access Token for product search
+
+```bash
 # Add ACCESS_TOKEN in ./dao/nuts/config.js file
+```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
